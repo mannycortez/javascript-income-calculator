@@ -1,6 +1,6 @@
-# Finsweet Developer Starter
+# JavaScript Income Calculator
 
-A starter template for both Client & Power projects.
+A starter template for both Client & Power projects using Finsweet Developer Starter.
 
 Before starting to work with this template, please take some time to read through the documentation.
 
