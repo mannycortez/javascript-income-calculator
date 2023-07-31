@@ -35,10 +35,7 @@ window.Webflow.push(() => {
 
     if (!amount) return;
 
-    // Perform any maths
-    // I = P * r * T
-
-    const total = Number(amount);
+    // Perform any math calculations
 
     // Display the results
     resultNewClientYearlyTotal.textContent = amount.toString();
